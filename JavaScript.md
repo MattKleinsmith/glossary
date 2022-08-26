@@ -1,6 +1,6 @@
 **module**
 > a collection of functions, contained in a standard way
-- For example, in a .js file, or 
+- For example, in a .js file
 - Sometimes referred to as a "library"
 - A module can consist of a single function.
 ---
