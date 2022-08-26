@@ -6,7 +6,7 @@
 ---
 **package**
 > a collection of modules
-- For example, Chai.
+- For example, Chai
 - Sometimes referred to as a "library"
 - A package can consist of a single module.
 ---
